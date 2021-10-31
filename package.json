@@ -14,5 +14,8 @@
   ],
   "author": "Quinn Gibson",
   "license": "MIT",
-  "repository": "@stranothus/near-regex"
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stranothus/near-regex.git"
+  }
 }
