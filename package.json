@@ -1,7 +1,7 @@
 {
   "name": "near-regex",
   "version": "1.0.0",
-  "description": "",
+  "description": "Match near RegEx patterns with special characters",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +13,6 @@
     "npm"
   ],
   "author": "Quinn Gibson",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "@stranothus/near-regex"
 }
